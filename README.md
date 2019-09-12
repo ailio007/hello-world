@@ -9,3 +9,4 @@ previous branch 2019-9-10
 
 merge the dev with git log commit
 
+merge by --no-ff no fast forward
