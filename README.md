@@ -12,4 +12,7 @@ merge the dev with git log commit
 merge by --no-ff no fast forward
 
 fixed one bug 2019-10-22
-create some confict
+
+more dollor
+Brexit
+
